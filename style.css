@@ -1,0 +1,18 @@
+.card {
+	width: 30vw;
+	height: 10rem;
+	border: solid 1px #000;
+	border-radius: 8px;
+	color: whitesmoke;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bg-blue {
+	background-color: cornflowerblue;
+}
+
+.bg-red {
+	background-color: rebeccapurple;
+}
